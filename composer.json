@@ -1,0 +1,12 @@
+{
+    "name": "tommey/bil-pdf-statement-parser",
+    "description": "BIL.com PDF Statement Parser",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tommey\\BilPdfStatementParser\\": "src/"
+        }
+    }
+}
